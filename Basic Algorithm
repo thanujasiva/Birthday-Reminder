@@ -1,0 +1,41 @@
+initialization
+
+  read the saved birthdays
+    open the file birthdays.txt to read it
+    for each line in the file
+      save the person's name, birthday and relation into an array
+    close the file
+    
+  show birthdays
+
+
+
+show birthdays
+  checks the current date
+  for each item in the birthday array (organize the birthdays in terms of current date)
+    display the birthday
+  check upcoming birthdays
+
+organize the birthdays (will run each time a new birthday is added/removed)
+  open the file birthdays.txt to overwrite this
+  sorts the array in terms of the birthday
+  for each part of the array
+    save it to the file
+  close the file
+
+edit the birthdays (gives the user the option to delete/modify the birthday)
+  open the fields with the current details
+  when the user presses save
+    overwrite the detail from the current item in the array with the new birthdays
+    show birthdays
+
+add birthday
+  displays text boxes for each of the fields for the user to enter (user must enter a valid name and birthday)
+  when the user saves
+    add the birthday to the array
+    show birthdays
+
+
+
+
+
