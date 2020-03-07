@@ -1,0 +1,13 @@
+Goal: Allows users to save birthdays and will notify the user when a birthday is approaching.
+
+How: To create an application where a user can input birthdays of their friends, family etc, and for the program to save these birthdays in a file.
+
+Coding Aspects Implement:
+- input/output
+- potentially GUI
+- using date and time
+
+Features:
+- let user input name, birth date, and relation to the person
+- potentially show birthdays in calender view, or otherwise in a list view (sorted with upcoming birthdays at the top)
+- send a reminder a week in advance of a birthday (or allow the user to specify when to send it)
