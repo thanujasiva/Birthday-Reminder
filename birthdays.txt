@@ -1,0 +1,24 @@
+Mary Smith
+2
+16
+Mother
+
+Bob Smith
+3
+4
+Cousin
+
+Lily Smith
+3
+23
+Aunt
+
+John Smith
+4
+7
+Brother
+
+Sally Smith
+7
+12
+Sister
