@@ -3,9 +3,9 @@ Mary Smith
 16
 Mother
 
-Bob Smith
+Betty Smith
 3
-4
+3
 Cousin
 
 Lily Smith
@@ -18,7 +18,18 @@ John Smith
 7
 Brother
 
+Tammy Hills
+4
+24
+Friend
+
+Mary Parker
+7
+10
+Family Friend
+
 Sally Smith
 7
 12
 Sister
+
